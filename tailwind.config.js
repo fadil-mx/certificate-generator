@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        gold: "#DAA520",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
