@@ -14,9 +14,12 @@
     "html2pdf.js": "^0.10.2",
     "jspdf": "^2.5.2",
     "next": "15.0.1",
+    "pdf-lib": "^1.17.1",
+    "pdfjs": "^2.5.3",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021",
-    "server-only": "^0.0.1"
+    "server-only": "^0.0.1",
+    "testing": "file:"
   },
   "devDependencies": {
     "postcss": "^8",
